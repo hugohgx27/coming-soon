@@ -170,7 +170,7 @@ export default function Home() {
       </main>
 
       {/* Footer simples */}
-      <footer className="relative z-10 text-center py-6 text-sm text-muted-foreground">
+      <footer className="relative z-10 text-center py-20 text-sm text-muted-foreground">
         <p>IVI Data Science - Transformando dados em conhecimento</p>
       </footer>
     </div>
